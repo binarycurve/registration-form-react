@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/registration-form-react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/registration-form-react/static/js/main.17695a21.chunk.js",
+    "main.js.map": "/registration-form-react/static/js/main.17695a21.chunk.js.map",
+    "runtime-main.js": "/registration-form-react/static/js/runtime-main.c2a1c9f0.js",
+    "runtime-main.js.map": "/registration-form-react/static/js/runtime-main.c2a1c9f0.js.map",
+    "static/js/2.268b93f6.chunk.js": "/registration-form-react/static/js/2.268b93f6.chunk.js",
+    "static/js/2.268b93f6.chunk.js.map": "/registration-form-react/static/js/2.268b93f6.chunk.js.map",
+    "index.html": "/registration-form-react/index.html",
+    "precache-manifest.399c2a83f269ea56ad860efb55307ab5.js": "/registration-form-react/precache-manifest.399c2a83f269ea56ad860efb55307ab5.js",
+    "service-worker.js": "/registration-form-react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/registration-form-react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.268b93f6.chunk.js.LICENSE.txt": "/registration-form-react/static/js/2.268b93f6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/registration-form-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2a1c9f0.js",
+    "static/js/2.268b93f6.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.17695a21.chunk.js"
+  ]
+}
