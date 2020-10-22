@@ -9,17 +9,17 @@ function App() {
     <Container>
       <Row>
         <Col>
-          <Header/>
+          <Header />
         </Col>
       </Row>
       <Row>
         <Col md={4}>
-          <Register/>
+          <Register />
         </Col>
       </Row>
       <Row>
         <Col>
-          <Footer/>
+          <Footer />
         </Col>
       </Row>
     </Container>

@@ -5,9 +5,9 @@ function Footer(props) {
     <Fragment>
       <hr />
       <center>
-      <small>
-        &copy; jatinkarla8@gmail.com | https://github.com/jatin-karla11
-      </small>
+        <small>
+          &copy; jatinkarla8@gmail.com | https://github.com/jatin-karla11
+        </small>
       </center>
     </Fragment>
   );
