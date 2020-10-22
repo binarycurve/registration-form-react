@@ -1,0 +1,11 @@
+web app run link: https://jatin-karla11.github.io/registration-form-react/
+github repository link: https://github.com/jatin-karla11/registration-form-react.git
+
+Sir/Ma'am, you can directly run the web app link to test the work. The flow is as follows:
+1) A registration form is present in the home page.
+2) The registration form is made using reactstrap, bootstrap and validators it has got basic validations according to the fields.
+3) If the informations provided are valid you are directed to a new page(basically a new component in react)
+4) I have not done much designing just focused on the basic concept which should be implemented that is of local storage which holds the data and you can access that data in any component that is any part of your web application and hence the next page after the registration contains the passed/retrieved data through local storage.
+5) More designing can also be done and also i can implement React-Router which makes the web app more interactive..
+
+gmail-jatinkarla8@gmail.com
