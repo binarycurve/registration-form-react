@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0b547743b905de894c42847dedae6949",
+    "revision": "0df8c7337887ece108113587941fc65c",
     "url": "/registration-form-react/index.html"
   },
   {
